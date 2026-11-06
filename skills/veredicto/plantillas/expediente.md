@@ -1,0 +1,13 @@
+# EXP-AAAA-NNN · <tema>
+- **Nivel:** N2 / N3 · **Tipo:** negocio / inversión / web / producto / automatización / optimización
+- **Idea original:**
+- **Problema que resuelve:**
+- **Público objetivo:**
+- **Propuesta de valor:**
+- **Modelo de ingresos:**
+- **Recursos necesarios:**
+- **Objetivo:**
+- **Restricciones** (presupuesto, horas, riesgo):
+- **Hipótesis por validar:**
+- **Lo que falta saber:**
+- **Lo que dice la memoria** (expedientes, ideas rechazadas o lecciones parecidas):
