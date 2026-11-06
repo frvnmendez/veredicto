@@ -1,0 +1,7 @@
+{
+  "name": "veredicto",
+  "owner": { "name": "frvnmendez" },
+  "plugins": [
+    { "name": "veredicto", "source": "./", "description": "Consejo multiagente que evalúa ideas y negocios antes de construirlos." }
+  ]
+}

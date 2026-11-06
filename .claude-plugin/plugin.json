@@ -1,0 +1,8 @@
+{
+  "name": "veredicto",
+  "version": "0.1.0",
+  "description": "Un consejo de 8 agentes independientes que evalúa ideas, negocios e inversiones antes de construirlos. No te da la razón: emite un veredicto con evidencias, stop-loss y alternativas.",
+  "author": { "name": "frvnmendez" },
+  "license": "MIT",
+  "keywords": ["decision-making", "business", "multi-agent", "red-team", "subagents", "español"]
+}
